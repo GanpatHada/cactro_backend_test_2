@@ -4,6 +4,7 @@ This application allows users to fetch GitHub repository data and create issues 
 
 ## Live Demo
 [Link](https://cactro-backend-test-2.onrender.com)
+[Api Documentaion](https://documenter.getpostman.com/view/19675500/2sAYdoFnTn)
 
 ## Features
 - Fetch user details from GitHub
